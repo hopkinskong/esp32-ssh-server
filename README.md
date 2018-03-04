@@ -21,5 +21,5 @@ Password: hopkinsdev
 
 ## Warnings
 
-Use at your own risk. This is just a proof of concept. Please generate a new public key instead of using the same key in this repository!
+Use at your own risk. This is just a proof of concept. Please generate a new key instead of using the same key and use another login credentials! This is **NOT** for production uses!
 
