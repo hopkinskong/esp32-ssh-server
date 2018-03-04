@@ -1,0 +1,6 @@
+[submodule "components/wolfssh-esp32"]
+	path = components/wolfssh-esp32
+	url = https://github.com/hopkinskong/wolfssh-esp32.git
+[submodule "components/wolfssl-esp32"]
+	path = components/wolfssl-esp32
+	url = https://github.com/hopkinskong/wolfssl-esp32.git
