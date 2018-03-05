@@ -4,6 +4,8 @@ This is an example for ESP32 to act as a SSH server. The text typed to SSH will 
 
 WolfSSH and WolfSSL library is used to provide SSH and cryptographic functionalities.
 
+![Image of ESP32 SSH Server](esp32_ssh_server.png?raw=true "ESP32 SSH Server")
+
 ## Issues
 
 1. Codes need to have lots of cleanups, this repo, wolfssh-esp32, wolfssl-esp32 are just proof of concepts.
